@@ -1,2 +1,2 @@
 # login-comunidade
-Página de Login da Comunidade utilizando apenas HTML e CSS
+Atividade para exercitar algumas técnicas utilizando apenas HTML e CSS.
